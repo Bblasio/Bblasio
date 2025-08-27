@@ -33,8 +33,12 @@
 ---
 
 ## 🏆 Certifications  
-![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity-blue?style=for-the-badge&logo=google)  
-![Credly](https://img.shields.io/badge/Credly-Badges-orange?style=for-the-badge&logo=credly)  
+
+[![Google Cybersecurity Professional Certificate](https://img.shields.io/badge/Google-Cybersecurity_Professional_Certificate-blue?style=for-the-badge&logo=google)](https://www.credly.com/badges/your-google-cybersecurity-badge-link)  
+[![Google IT Support Professional Certificate](https://img.shields.io/badge/Google-IT_Support_Professional_Certificate-green?style=for-the-badge&logo=google)](https://www.credly.com/badges/your-google-it-support-badge-link)  
+[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/your-aws-ccp-badge-link)  
+
+🔗 [View all my badges on Credly](https://www.credly.com/users/blasio-odhiambo/badges#credly)  
 
 ---
 
