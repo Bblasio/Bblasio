@@ -1,14 +1,20 @@
-# 👋 Hi, I'm Blasio Ochieng  
+# 👋 Hi, I'm Blasio Ochieng  Odhiambo
 
 💻 IT Support Specialist | 🔐 Cybersecurity Enthusiast | 🌍 Passionate about Digital Transformation  
 
 ---
 
 ## 🚀 About Me  
-- 🎓 BSc in Information Technology (Second Class Upper Division)  
-- 💡 Strong foundation in IT Support, System Administration, and Hardware/Software Maintenance  
-- 🛡️ Building expertise in Cybersecurity: Vulnerability Assessment, Threat Monitoring, and Network Defense  
-- 🌱 Currently pursuing the **Google Cybersecurity Professional Certificate**  
+I’m **Blasio Ochieng Odhiambo**, an **IT Professional and Cybersecurity Enthusiast** with a strong foundation in **IT Support, System & Network Administration, and Security Operations**.  
+
+🎓 I hold a **BSc in Information Technology (Second Class Upper Division)** and I’m currently expanding my expertise in **Cybersecurity, Cloud Computing, and Software Engineering** through advanced training and certifications.  
+
+💡 My journey blends **hands-on IT support** with **cybersecurity awareness** — from configuring secure networks and managing systems to monitoring threats and reducing vulnerabilities.  
+
+🌍 I’m passionate about contributing to **digital transformation** by applying technology that is **secure, reliable, and impactful**.  
+
+✨ Beyond work and study, I enjoy building projects in **Python, SQL, Cloud, and Security Labs**, and sharing knowledge that helps others grow in tech.  
+
 - 🌐 Portfolio: [blasio.netlify.app](https://blasio.netlify.app)  
 
 ---
