@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Blasio Odhiambo
+# Hi, I'm Blasio Odhiambo
 
-💻 IT Support Specialist | 🔐 Cybersecurity Enthusiast | Information Technology
+💻 IT  Specialist | 🔐 Cybersecurity Enthusiast | Information Technology
 
 ## 🚀 About Me  
 - 🎓 BSc in Information Technology (Second Class Upper Division)
