@@ -46,7 +46,7 @@
 🔹 [AI for Sustainable Development](https://github.com/Bblasio/AI_for_Sustainable_Development) – Applied AI concepts and data-driven approaches addressing sustainability challenges  
 🔹 [Smart Goat Manager](https://github.com/Bblasio/Smart_Goat_Manager) – A practical management system for tracking livestock records and farm operations   
 🔹 [SQL Practice Labs](https://github.com/Bblasio/SQL-Labs) – Hands-on MySQL queries and database design    
-🔹 [Cybersecurity Notes](https://github.com/Bblasio/Cybersecurity-Notes) – Security concepts, tools, and labs   
+🔹 [Cybersecurity REPORTS](https://github.com/Bblasio/reports.git) – some of my labs reports 
 
 ---
 
